@@ -1,6 +1,15 @@
-### Hi there 👋
+# About Me 👋
+Long way to go...
+
+- 会点 Python 语言的一个菜鸟安全工作者。
+- SRC混子
+- 纠结症患者
+- 热爱生活
+
+![](https://github-readme-stats.vercel.app/api?username=XavierRoot&count_private=true&show_icons=true&hide=prs)
 
 <!--
+### Hi there 
 **XavierRoot/XavierRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
