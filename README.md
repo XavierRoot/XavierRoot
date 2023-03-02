@@ -1,12 +1,15 @@
 # About Me 👋
 Long way to go...
 
-- 会点 Python 语言的一个菜鸟安全工作者；
+- 一个网络安全工作者；
 - SRC混子；
 - 纠结症患者；
 - 热爱生活；
+- Web、Android、逆向;
+- :books: 资深读者、:bow_and_arrow: 初级弓箭手、:video_game: 老玩家
 
 ![](https://github-readme-stats.vercel.app/api?username=XavierRoot&count_private=true&show_icons=true&hide=prs)
+![xavier's github stats](https://github-readme-stats.vercel.app/api?username=XavierRoot&theme=radical) 
 
 <!--
 ### Hi there 
