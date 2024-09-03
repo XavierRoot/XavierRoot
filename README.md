@@ -11,6 +11,7 @@ Long way to go...
 ![](https://github-readme-stats.vercel.app/api?username=XavierRoot&count_private=true&show_icons=true&hide=prs)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=XavierRoot)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 ### Hi there 
 **XavierRoot/XavierRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
